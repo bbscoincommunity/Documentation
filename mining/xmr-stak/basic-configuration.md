@@ -21,7 +21,7 @@ Copy the following JSON settings into your text editor and save it as text file 
 "currency" : "bbscoin",
 ```
 
-Replace the PORT in "pool\_address" to match a your desired difficulty port from the [Mining](../) page. Should look like "mine.bbscoin.click:3336". Then, change the "wallet\_address" to your walletAddress.difficulty | Making it look similar to this, but with your address and difficulty.
+Replace the PORT in "pool\_address" to match a your desired difficulty port from the [Mining](../) page. Should look like "mine.bbscoin.click:3336". Then, change the "wallet_address" to your walletAddress.difficulty | Making it look similar to this, but with your address and difficulty. If you will use multiple devices/rigs to mine, add a "rig\__id" to each configured, specialy if from same IP address.
 
 `fyTpS7UgsfTJaGWxKoBcYNAie7ZXkia8UKarA8mAEnusGpM1JQPAzvFd6S8fpDR7WgEN9wTVL6vdBe3PjPmqafpm2PogvpQna.50000`
 
