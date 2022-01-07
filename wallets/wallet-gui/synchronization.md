@@ -4,7 +4,7 @@ You wallet should synchronize automatically to the main nodes. If after 15 minut
 
 On your BBSCoin GUI wallet, go to Settings on the menu, and select Preferences.
 
-![Settings menu view](<../../.gitbook/assets/image (1).png>)
+![Settings menu view](<../../.gitbook/assets/image (1) (1).png>)
 
 A windows like the one shown below will appear, please change the \[ Connection ] options to look like the one pictured. "Remote daemon" must be selected, with Host: node.bbscoin.click, and Port: 20204. Then please click on the \[ SAVE ] button. If the wallet doesn't start to synchronize after changing to "Remote daemon", you may need to File, Exit the program, wait like a minute, then restart the program.
 
