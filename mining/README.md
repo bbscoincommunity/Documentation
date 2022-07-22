@@ -6,7 +6,7 @@ description: >-
 
 # Mining
 
-**Official Mining Pool:** [https://pool.bbscoin.click/](https://pool.bbscoin.click)
+**Official Mining Pool:** [https://pool.bbscoin.click/](https://pool.bbscoin.click/)
 
 **Mining Pool Host Address:** mine.bbscoin.click (_Host to use/connect in mining software._)
 

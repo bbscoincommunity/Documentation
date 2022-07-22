@@ -10,6 +10,7 @@
   * [SimpleWallet](wallets/simplewallet.md)
   * [Wallet Container](wallets/wallet-container.md)
   * [bbs.money restore](wallets/bbs.money-restore.md)
+  * [Tronlink to Klever Wallet](wallets/tronlink-to-klever-wallet.md)
 * [Mining](mining/README.md)
   * [XMR-Stak](mining/xmr-stak/README.md)
     * [Basic configuration](mining/xmr-stak/basic-configuration.md)
