@@ -1,8 +1,8 @@
 ---
 description: >-
   How to export copy your private key from Tronlink and paste it into Klever
-  wallet for dual Synchronization. Tronlink covers all TRON blockchain tokens,
-  but Klever Wallet only allows listed tokens.
+  wallet for dual Synchronization. This wallet support BBSToken and Wrapped
+  BBSToken as well as our DApp.
 ---
 
 # Tronlink to Klever Wallet
